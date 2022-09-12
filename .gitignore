@@ -1,0 +1,25 @@
+# Custom
+*.bak
+*.depend
+*.ini
+*.layout
+*.lnk
+*.save-failed
+*~
+
+# Executables
+*.app
+*.exe
+*.hex
+*.i*86
+*.out
+*.x86_64
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
