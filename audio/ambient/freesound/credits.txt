@@ -59,4 +59,10 @@ https://freesound.org/people/kangaroovindaloo/sounds/397445/     kangaroovindalo
 woodpecker.ogg                                                   loberg77
 https://freesound.org/people/loberg77/sounds/394753/
 
+wolf01.ogg                                                       Kingcornz
+https://freesound.org/people/Kingcornz/sounds/378334/
+
+wolf02.ogg                                                       killyourpepe
+https://freesound.org/people/killyourpepe/sounds/395192/
+
 The sounds were trimmed and/or mixed with other sounds under the same license. Some were edited into a loop to be usable in the game.
