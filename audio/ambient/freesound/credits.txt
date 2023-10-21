@@ -65,4 +65,7 @@ https://freesound.org/people/Kingcornz/sounds/378334/
 wolf02.ogg                                                       killyourpepe
 https://freesound.org/people/killyourpepe/sounds/395192/
 
+loop_rain_thunder                                                pulswelle
+https://freesound.org/people/pulswelle/sounds/280214/
+
 The sounds were trimmed and/or mixed with other sounds under the same license. Some were edited into a loop to be usable in the game.
