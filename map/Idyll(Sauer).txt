@@ -1,0 +1,40 @@
+Idyll by Mmeaninglessnamee (aka Mmeaninglez or Mmean)
+
+This is a small FFA map floating above the clouds. Yay clouds!
+
+I don't have much to say about the map, really. It's designed to be a small map, mainly for 
+duels. I hope someone likes it.
+===================================================
+
+Jumppads: 1
+Teleports: 0
+Playerstarts (neutral): 8
+
+Shells     :4
+Bullets    :2
+Rockets    :2
+Riflerounds:2
+Grenades   :2
+Pistol     :0
+Health     :3
+Healthboost:Yes
+Greenarmor :1
+Yellowarmor:1
+Quad Damage:No
+
+Enjoy the Map!
+===================================================
+Version History:
+1.0 - Original version
+1.1 - Some stuff, I guess
+1.2 - added trim, some more plant beds, one more rocket, better waypoints, better/more details
+===================================================
+   -Version 1.2-
+First published March 2014 (version 1.1)
+===================================================
+Copyright & Permissions:
+
+Sauerbraten Engine/Game by Wouter van Oortmerssen aka Aardappel. (www.sauerbraten.org)
+
+Creative Commons 4.0 Attribution Liscense. You can adapt and share this map, and commercial 
+uses are allowed, as long as proper attribution is given.

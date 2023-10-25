@@ -1,0 +1,34 @@
+[Maptitle]:Idyll II ||| Suiseiseki
+[Original]: Idyll ||| Mmeaninglessnamee
+[Author]: Ognjen "Suiseiseki" Robovich
+[Created on]: 1st July 2018
+
+[Gamemode]: Deathmatch (rdm; pdm)
+[Players]: 2-4
+[Jumppads]: 3
+[Portals]: 0
+
+==========================================
+
+Installation:
+
+1) Locate your custom Tesseract folder:
+    1a) Linux:    /home/username/.tesseract/
+    1b) Windows:  C:\Users\username\Documents\My Games\tesseract
+// It can be little different depending on OS version...
+// I'm not familiar with MacOS, and to be quite honest, I don't want to be :d
+2) Extract content of downloaded .zip file into Tesseract folder mentioned above.
+// If asked to Merge and Replace, click "Yes"
+
+==========================================
+
+About Map:
+
+ - Very experimental mapstyle... Abstract aesthetic was my goal.
+ - Map has few covers, but it's main layout is for shooting across the map...
+
+==========================================
+
+License:
+
+All content shared in 'idyll2.zip' is created by me, Suiseiseki, using Tesseract Game Engine, except for base layout, which was made by Mmeaninglessnamee in Sauerbraten, and then imported in Tesseract by me with his approval. I'll not leave any kind license here because I didn't created map from scratch, I hope you enjoy playing it. ;)
