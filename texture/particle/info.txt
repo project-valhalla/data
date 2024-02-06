@@ -1,0 +1,24 @@
+Files:
+- base.png
+- blood02.png
+- comics.png
+- electricity.png
+- glass.png
+- muzzle02.png
+- muzzle03.png
+- orb.png
+- ring.png
+- spark02.png
+- water.png
+
+Origin: Valhalla Project
+Author: garsipal
+License:
+- CC BY-SA 4.0+
+- https://creativecommons.org/licenses/by-sa/4.0/
+- https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+___
+
+Other files: license unknown
+Origin: Cube 2 Sauerbraten / Tesseract

@@ -1,1 +1,14 @@
+File: taunt.ogg
+Origin: Xonotic (www.xonotic.org)
+License: GPLv3+
+
+___
+
+Other sounds
+
+Author: Badre-Eddine
 https://opengameart.org/content/hurt-death-sound-effect-for-character
+
+License: CC0 1.0 Universal (CC0 1.0)
+https://creativecommons.org/publicdomain/zero/1.0/
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

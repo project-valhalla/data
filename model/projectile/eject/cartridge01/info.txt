@@ -1,0 +1,2 @@
+Copyright: Red Eclipse Team
+License: CC-BY-SA-4.0+

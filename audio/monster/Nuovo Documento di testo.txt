@@ -1,0 +1,74 @@
+Files:
+- gray_die.ogg
+- gray_halt01.ogg
+- gray_pain.ogg
+- mech_die.ogg
+- mech_halt01.ogg
+- mech_halt02.ogg
+- mech_pain01.ogg
+- mech_pain02.ogg
+- spider_attack01.ogg
+- spider_attack02.ogg
+- spider_die01.ogg
+- spider_die02.ogg
+- spider_die03.ogg
+- spider_halt.ogg
+- spider_pain.ogg
+
+Author: "garsipal"
+Origin: Valhalla Project
+License:
+- Attribution NonCommercial 4.0
+- https://creativecommons.org/licenses/by-nc/4.0/
+- https://creativecommons.org/licenses/by-nc/4.0/legalcode.en
+
+___
+
+Files:
+- ogro_halt.ogg
+
+Origin: Xonotic (www.xonotic.org)
+License: License: GPLv3+
+
+___
+
+Files:
+- ogro_die.ogg
+- ogro_pain.ogg
+
+Author: Badre-Eddine & "garsipal"
+https://opengameart.org/content/hurt-death-sound-effect-for-character
+
+License:
+CC0 1.0 Universal (CC0 1.0)
+https://creativecommons.org/publicdomain/zero/1.0/
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
+___
+
+Files:
+- lurker_die.ogg
+- lurker_halt.ogg
+- lurker_pain.ogg
+
+Authors: zachrau, qubodup, garsipal
+Origin:
+- https://freesound.org/people/zachrau/sounds/449577/
+- https://freesound.org/people/qubodup/sounds/442907/
+- https://freesound.org/people/qubodup/sounds/442904/
+License:
+- CC0 1.0 Universal 
+- https://creativecommons.org/publicdomain/zero/1.0/
+- https://creativecommons.org/publicdomain/zero/1.0/legalcode.en
+
+___
+
+
+Files:
+- guard_die.ogg
+- guard_halt.ogg
+- guard_pain.ogg
+
+License:
+- CC0 1.0 Universal 
+- https://creativecommons.org/publicdomain/zero/1.0/
+- https://creativecommons.org/publicdomain/zero/1.0/legalcode.en

@@ -1,18 +1,22 @@
-The sounds in this directory, except for:
+This license covers all sounds exclusively designed for the project, excluding those found in:
 
-the ones contained in ambient/freesound.org,
-the ones in ambient/kaiser,
-the ones in ambient/q009,
-the ones in ambient/soundtransit,
-the ones in announcer,
-the ones in misc/free,
-the ones in misc/soundsnap,
-the ones in uphys,
+    ambient/freesound.org
+    ambient/kaiser
+    ambient/q009
+    ambient/soundtransit
+    announcer
+    misc/free
+    misc/soundsnap
+    weapon/railgun/dacker
 
-unless otherwise stated with text files, are either original (created with my own recordings) or created by mixing and heavily processing public domain samples found on freesound.org.
-These sounds are licensed under the Creative Commons 0 License (public domain).
-https://creativecommons.org/publicdomain/zero/1.0/
+Sounds associated with text files indicating otherwise are exempt from this license file. Please refer to the readme files in each folder to know which files are under the following license.
+___
 
-If you use these sounds outside this project I would appreciate if you let me know but you are not obliged to do so.
+This work is published by "garsipal" from: Italy
+For: Valhalla Project
+Licensed under: Attribution-ShareAlike 4.0 Unported (CC BY-SA 4.0+)
 
--garsipal
+For a copy of the mentioned license: https://creativecommons.org/licenses/by-sa/4.0/
+For the Attribution-ShareAlike 4.0 Unported (CC BY-SA 4.0) Legal Code, please visit: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+Note: "if you use these sounds outside this project I would appreciate if you let me know. -garsipal"

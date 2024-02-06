@@ -1,0 +1,28 @@
+File: power-up.ogg
+Origin: Valhalla Project
+Author: Getridou
+License: Attribution-ShareAlike 4.0 Unported (CC BY-SA 4.0)
+
+______________________________________________________________
+
+
+Files:
+- action_ddamage.ogg
+- loop_ddamage.ogg
+- loop_haste.ogg
+- loop_invulnerability.ogg
+- pickup_ddamage.ogg
+- pickup_haste.ogg
+- pickup_invulnerability.ogg
+- pickup_health.ogg
+- pickup_health_mega.ogg
+- pickup_health_super.ogg
+- timeout_ddamage.ogg
+- timeout_haste.ogg
+- timeout_invulnerability.ogg
+
+Origin: freesound.org
+Author: garsipal, various
+License: CC0 1.0 Universal (CC0 1.0)
+https://creativecommons.org/publicdomain/zero/1.0/
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

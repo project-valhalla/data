@@ -1,0 +1,29 @@
+File: juggernaut.ogg
+Author: rrreed
+Origin: https://freesound.org/people/rrreed/sounds/322525/
+License:
+- CC0 1.0 Universal 
+- https://creativecommons.org/publicdomain/zero/1.0/
+- https://creativecommons.org/publicdomain/zero/1.0/legalcode.en
+
+___
+
+File: juggernaut_loop.ogg
+Author: humanoide9000
+Origin: https://freesound.org/people/humanoide9000/sounds/686217/
+License:
+- Attribution 4.0 International 
+- https://creativecommons.org/licenses/by/4.0/
+- https://creativecommons.org/licenses/by/4.0/legalcode.en
+
+___
+
+Files:
+- lms_round.ogg
+- lms_round_win.ogg
+- traitor.ogg
+- traitor_victim.ogg
+Origin: freesound.org
+- CC0 1.0 Universal 
+- https://creativecommons.org/publicdomain/zero/1.0/
+- https://creativecommons.org/publicdomain/zero/1.0/legalcode.en

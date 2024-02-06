@@ -1,0 +1,12 @@
+Maps:
+alphacorp by Pritchard
+complex by Nieb & Dacker
+reflection by James 'Skur' Rucks and Yannick 'Snowy' Weber (CC BY-SA 3.0)
+steelribs by Sławomir 'Q009' Błauciak
+waterworks by Kurtk84
+
+Were included in the first Tesseract edition, which Valhalla is based on.
+
+___
+
+The other maps were ported or made specifically for the Valhalla Project, by contributors or the development team.

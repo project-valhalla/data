@@ -1,0 +1,14 @@
+Files:
+- intermission.ogg
+- intermission_win.ogg
+Origin: freesound.org
+License:
+- CC0 1.0 Universal 
+- https://creativecommons.org/publicdomain/zero/1.0/
+- https://creativecommons.org/publicdomain/zero/1.0/legalcode.en
+
+___
+
+free/hit.ogg
+Origin: Cube 2 Sauerbraten
+License: unknown
