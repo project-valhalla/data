@@ -27,3 +27,11 @@ Origin: freesound.org
 - CC0 1.0 Universal 
 - https://creativecommons.org/publicdomain/zero/1.0/
 - https://creativecommons.org/publicdomain/zero/1.0/legalcode.en
+
+___
+
+Files: traitor_kill.ogg
+Origin: https://freesound.org/people/tyops/sounds/448079/
+License:
+- Attribution 4.0
+- https://creativecommons.org/licenses/by/4.0/deed.en
