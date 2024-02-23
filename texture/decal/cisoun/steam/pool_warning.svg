@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   viewBox="0 0 999.99996 999.99996"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="pool_warning.svg"
+   inkscape:export-filename="/home/cyriaque/.tesseract/media/decal/cisoun/steam/pool_warning.png"
+   inkscape:export-xdpi="45"
+   inkscape:export-ydpi="45">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4153"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#a22e22;stop-opacity:1;"
+         offset="0"
+         id="stop4155" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4147"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4149" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4153"
+       id="linearGradient4157"
+       x1="50"
+       y1="525"
+       x2="950"
+       y2="525"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,52.362152)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4153"
+       id="linearGradient4158"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(4.1168793,0,0,4.1168793,-1149.1097,-2098.3073)"
+       x1="377.83981"
+       y1="648.19714"
+       x2="425.50653"
+       y2="648.19714" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="430.27854"
+     inkscape:cy="374.56608"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:snap-bbox="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4136"
+       empspacing="50" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-52.362152)">
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:url(#linearGradient4157);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.70000052;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 450,202.36215 -400,650 100,100 700,0 100,-100 -400,-650 -100,0 z m 50,100 350,550 -700,0 350,-550 z"
+       id="path4138" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.99999237px;line-height:125%;font-family:Impact;-inkscape-font-specification:Impact;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient4158);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="497.64209"
+       y="587.38885"
+       id="text4143"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="497.64209"
+         y="587.38885"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:124.99998474px;font-family:Impact;-inkscape-font-specification:Impact;fill:url(#linearGradient4158);fill-opacity:1"
+         id="tspan4187">!</tspan><tspan
+         sodipodi:role="line"
+         x="497.64209"
+         y="668.14459"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.99999237px;font-family:Impact;-inkscape-font-specification:Impact;fill:url(#linearGradient4158);fill-opacity:1"
+         id="tspan4191">WARNING</tspan><tspan
+         sodipodi:role="line"
+         x="497.64209"
+         y="730.64459"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.99999237px;font-family:Impact;-inkscape-font-specification:Impact;fill:url(#linearGradient4158);fill-opacity:1"
+         id="tspan4167">DO NOT APPROACH</tspan><tspan
+         sodipodi:role="line"
+         x="497.64209"
+         y="793.14459"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.99999237px;font-family:Impact;-inkscape-font-specification:Impact;fill:url(#linearGradient4158);fill-opacity:1"
+         id="tspan4169">POOL IF GLASS IS BROKEN</tspan></text>
+  </g>
+</svg>
