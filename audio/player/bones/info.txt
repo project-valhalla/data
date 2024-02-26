@@ -4,7 +4,7 @@ License: GPLv3+
 
 ___
 
-Other sounds
+Other sounds (except for the ones contained in the subdirectory voicecom/)
 
 Author: Badre-Eddine
 https://opengameart.org/content/hurt-death-sound-effect-for-character
