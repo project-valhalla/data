@@ -3,8 +3,9 @@ Files:
 - valknut.png
 - logo.png
 
-Authors: garsipal, Edasert
-Origin: Valhalla Project
+Owned by: Valhalla Project
 License: CC BY-SA 4.0
 https://creativecommons.org/licenses/by-sa/4.0/
 https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+Please, refer to our trademark policy regarding the appropriate usage of our project's logos.
