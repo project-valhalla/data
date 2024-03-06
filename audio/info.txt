@@ -7,6 +7,7 @@ This license covers all sounds exclusively designed for the project, excluding t
     announcer
     misc/free
     misc/soundsnap
+    music
     weapon/railgun/dacker
 
 Sounds associated with text files indicating otherwise are exempt from this license file. Please refer to the readme files in each folder to know which files are under the following license.
