@@ -1,18 +1,26 @@
 Files:
 - base.png
+- blood01.png
 - blood02.png
 - comics.png
 - electricity.png
+- flames.png
 - glass.png
+- hole_glass.png
+- hole_bullet.png
+- muzzle01.png
 - muzzle02.png
 - muzzle03.png
 - orb.png
 - ring.png
+- scorch.png
+- snow.png
+- spark01.png
 - spark02.png
 - water.png
 
 Origin: Valhalla Project
-Author: garsipal
+Author: garsipal, WohSiesta
 License:
 - CC BY-SA 4.0+
 - https://creativecommons.org/licenses/by-sa/4.0/
