@@ -32,6 +32,7 @@ ___
 
 Files:
 - explosion02.png
+- steam.png
 Origin: Cube 2: Sauerbraten
 Author: Q009
 License:
