@@ -4,6 +4,8 @@ Files:
 - blood02.png
 - comics.png
 - electricity.png
+- explosion01.png
+- explosion03.png
 - flames.png
 - glass.png
 - hole_glass.png
@@ -20,7 +22,7 @@ Files:
 - water.png
 
 Origin: Valhalla Project
-Author: garsipal, WohSiesta
+Author: garsipal, wohSiesta
 License:
 - CC BY-SA 4.0+
 - https://creativecommons.org/licenses/by-sa/4.0/
@@ -28,5 +30,11 @@ License:
 
 ___
 
-Other files: license unknown
-Origin: Cube 2 Sauerbraten / Tesseract
+Files:
+- explosion02.png
+Origin: Cube 2: Sauerbraten
+Author: Q009
+License:
+- CC-BY 4.0+
+- https://creativecommons.org/licenses/by-sa/4.0/
+- https://creativecommons.org/licenses/by-sa/4.0/legalcode
