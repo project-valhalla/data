@@ -1,6 +1,5 @@
-File: damage.png
-Author: WohSiesta
 Origin: Valhalla Project
+Authors: wohSiesta, Edasert, coornio, garsipal, -X-
 License: CC BY-SA 4.0
 https://creativecommons.org/licenses/by-sa/4.0/
 https://creativecommons.org/licenses/by-sa/4.0/legalcode
