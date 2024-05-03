@@ -1,0 +1,5 @@
+Author: TheGameAssets
+Origin: https://skfb.ly/6SV7q (sketchfab.com)
+License: CC BY Attribution 4.0
+
+Note: the model was converted to SMD and modified to respect the engine's requirements by "garsipal"
