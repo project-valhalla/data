@@ -39,3 +39,9 @@ License:
 - CC-BY 4.0+
 - https://creativecommons.org/licenses/by-sa/4.0/
 - https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+___
+
+File: lightning.png
+Author: Quinton Reeves
+License: CC-BY-SA 3.0 license, or any later version
