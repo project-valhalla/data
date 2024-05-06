@@ -1,4 +1,7 @@
 Files: causticmap.png / causticmap_g.png
+License: Attribution-ShareAlike 3.0 Unported
+
+------
 
 Creative Commons
 
