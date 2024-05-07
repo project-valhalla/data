@@ -1,5 +1,6 @@
-http://tesseract.gg/forum/viewtopic.php?id=551
-
 Author: Suiseiseki / Morti
+Ported with permission to Valhalla by "garsipal"
 
-Ported to Valhalla by garsipal
+License: by being included in Valhalla without an explicit license, this work automatically adopts the default asset license, CC BY-SA 4.0+
+
+Small duel map, created months ago, and finished now. My inspiration for this was in my old Sauerbraten map "Mint", which was clearly made with Linux Mint in mind, same as this should "look like" Arch in terms of design, from my point of view. There is also map "Kali", and I'll port over Mint sometime later... Map originally had green areas with bushes and trees, but it didn't really improved look or play, so I removed it. :)

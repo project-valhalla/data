@@ -1,4 +1,5 @@
-http://quadropolis.us/node/4306
-
-Map by Sauce, Ardelico & RaZgRiZ
-Ported to Valhalla by garsipal
+Authors: "Sauce", "Ardelico" & "RaZgRiZ" - Valhalla port by "garsipal"
+Origin: http://quadropolis.us/node/4306
+License:
+- CC BY
+- https://creativecommons.org/licenses/by/4.0/deed.en

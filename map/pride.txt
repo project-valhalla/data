@@ -1,5 +1,8 @@
-http://tesseract.gg/forum/viewtopic.php?id=500
-
 Author: Suiseiseki / Morti
+Ported with permission to Valhalla by "garsipal"
 
-Ported to Valhalla by garsipal
+License: by being included in Valhalla without an explicit license, this work automatically adopts the default asset license, CC BY-SA 4.0+
+
+Deathmatch map for 4-6 players. It has 2 ports and 4 jpads, with some "hard-to-reach" areas for camping.
+It's layout (expecially bottom part) is somewhat similar to Academy from Sauer, but it's changed and upgraded.
+I've edited Philip's 'pk02' texture pack, but it's really compact, and you can use it, I respected his license.
