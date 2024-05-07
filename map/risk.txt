@@ -1,4 +1,4 @@
-http://quadropolis.us/node/4340
-Map by Ao1 Pointblank
+Authors: Map by "Ao1|Pointblank" - ported to Valhalla by "Ao1|Pointblank" & "garsipal"
+Origin: http://quadropolis.us/node/4340
+License: CC BY https://creativecommons.org/licenses/by/4.0/deed.en
 
-Ported to Valhalla by Ao1 Pointblank & garsipal
