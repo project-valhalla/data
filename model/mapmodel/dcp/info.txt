@@ -11,7 +11,7 @@ stats:		too much typing for this readme... nooo, really, i'm too
 
 description:	several mapmodels to stuff your levels with... don't
 		put too many models in your level, especially don't
-		try to cover toolarge areas with grass or similar types.
+		try to cover too large areas with grass or similar types.
 		on my machine (athlon 2400+/geForceFX5200) i did not
 		notice a significant performance decrease by using
 		larger amounts of these models but i'm sure on slower
