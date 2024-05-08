@@ -1,5 +1,4 @@
-Author: Suiseiseki / Morti
-Ported with permission to Valhalla by "garsipal"
+Author: Suiseiseki / Morti - ported with permission to Valhalla by "garsipal"
 
 License: by being included in Valhalla without an explicit license, this work automatically adopts the default asset license, CC BY-SA 4.0+
 
