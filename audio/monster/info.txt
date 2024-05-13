@@ -25,14 +25,6 @@ License:
 ___
 
 Files:
-- ogro_halt.ogg
-
-Origin: Xonotic (www.xonotic.org)
-License: License: GPLv3+
-
-___
-
-Files:
 - ogro_die.ogg
 - ogro_pain.ogg
 
@@ -43,25 +35,8 @@ License:
 CC0 1.0 Universal (CC0 1.0)
 https://creativecommons.org/publicdomain/zero/1.0/
 https://creativecommons.org/publicdomain/zero/1.0/legalcode
-___
-
-Files:
-- lurker_die.ogg
-- lurker_halt.ogg
-- lurker_pain.ogg
-
-Authors: zachrau, qubodup, garsipal
-Origin:
-- https://freesound.org/people/zachrau/sounds/449577/
-- https://freesound.org/people/qubodup/sounds/442907/
-- https://freesound.org/people/qubodup/sounds/442904/
-License:
-- CC0 1.0 Universal 
-- https://creativecommons.org/publicdomain/zero/1.0/
-- https://creativecommons.org/publicdomain/zero/1.0/legalcode.en
 
 ___
-
 
 Files:
 - guard_die.ogg
@@ -72,3 +47,15 @@ License:
 - CC0 1.0 Universal 
 - https://creativecommons.org/publicdomain/zero/1.0/
 - https://creativecommons.org/publicdomain/zero/1.0/legalcode.en
+
+___
+
+Files:
+- ogro_halt01.ogg
+- ogro_halt02.og
+
+Author: frenkfurth
+License:
+CC0 1.0 Universal (CC0 1.0)
+https://creativecommons.org/publicdomain/zero/1.0/
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
