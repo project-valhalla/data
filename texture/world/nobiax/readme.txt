@@ -1,4 +1,4 @@
-Mapmodels by Nobiax
+Textures by Nobiax
 
 http://nobiax.deviantart.com/
 
@@ -17,17 +17,3 @@ Please, give me a link of the result at nobiax.deviantart.com or my other accoun
 ( watch my journal on deviantart to find them ) ;)
 
 Or on Youtube.
-
-######
-
-Provided by Nobiax.
-
-Absolutely free to use or to modify in any kind of work (personal, commercial or else).
-
-Give me a link of the result at nobiax.deviantart.com or my other account on OpenGameArt.com or ShareCG.com
-( watch my journal on deviantart ) ;)
-
-######
-
-Various folders and files here had these 2 kinds of license, but since first one is "more to the point", I decided to include both of them under this 1 "readme.txt" file, for the sake of convenience. Some files were modified, such as specular maps, either way, I respected Nobiax's license, and all credit goes to him. - Morti
-
