@@ -3,10 +3,8 @@ Sounds downloaded from freesound.org
 bell.ogg                                                         pulsewelle
 https://freesound.org/people/pulswelle/sounds/245605/
 
-cicadas01 & cicadas02                                            burkay, mannhawks, dan_keck
-https://freesound.org/people/burkay/sounds/322616/
+loop_cicadas                                                     mannhawks
 https://freesound.org/people/mannhawks/sounds/162682/
-https://freesound.org/people/dan_keck/sounds/347042/
 
 coyote01.ogg                                                     felix.blume, dkaufman
 https://freesound.org/people/felix.blume/sounds/215141/
