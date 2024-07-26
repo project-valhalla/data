@@ -1,6 +1,8 @@
 Files:
     - intermission.ogg ("Dissipation")
     - becoming_dire.ogg ("Becoming Dire")
+    - labspawn.wav ("Labspawn")
+    - temporal_warning.wav ("Temporal Warning")
 
 Origin: Valhalla Project (Valhalla OST)
 Composer: Getridou (#7108)_
