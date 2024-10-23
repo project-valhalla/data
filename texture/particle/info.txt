@@ -1,3 +1,7 @@
-File: lightning.png
-Author: Quinton Reeves
-License: CC-BY-SA 3.0 license, or any later version
+| File                  | Author                                    | License           |
+| ----------------------|-------------------------------------------|-------------------|
+| lightning.png         | Quinton "qreeves" Reeves                  | CC-BY-SA 3.0      |
+| explosion01.png       | Sinestesia                                | CC0 1.0 Universal |
+| explosion02.png       | Sinestesia                                | CC0 1.0 Universal |
+| explosion03.png       | Sinestesia                                | CC0 1.0 Universal |
+------------------------|-------------------------------------------|-------------------|
