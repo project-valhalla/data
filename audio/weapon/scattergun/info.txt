@@ -1,11 +1,4 @@
-Files:
-- primarya01.ogg
-- primarya02.ogg
-
-Author: Michel Baradari
-Origin: https://opengameart.org/content/chaingun-pistol-rifle-shotgun-shots
-
-License: CC-BY 3.0
-https://creativecommons.org/licenses/by/3.0/
-
-Changes: I mixed some of Michel Baradari's sounds with mine and edited them. -garsipal
+File(s): fire_a01.ogg , fire_a02.ogg
+Author: by Michel Baradari apollo-music.de (c)
+License: CC BY 3.0 http://creativecommons.org/licenses/by/3.0/
+Note: Hosted on opengameart.org
