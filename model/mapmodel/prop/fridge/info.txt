@@ -1,0 +1,8 @@
+Model Information:
+* title:	Cartoon Fridge
+* source:	https://sketchfab.com/3d-models/cartoon-fridge-10f7ff405a064627a44dc5123a80a7b0
+* author:	giyas3dartist (https://sketchfab.com/giyasudeen31)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.

@@ -21,6 +21,7 @@
 | loop_rain_thunder.ogg | "pulswelle"                               | CC0 1.0 Universal |
 | loop_ethereal.ogg     | "DreStortion", "InspectorJ", "IanStarGem" | CC BY 4.0         |
 | geigercounter.ogg     | "cookies+policy"                          | CC0 1.0 Universal |
+| loop_music.ogg        | "Jay_You"                                 | CC BY 4.0         |
 ------------------------|-------------------------------------------|-------------------|
 
 These files were created using source material downloaded from www.freesound.org by "garsipal".

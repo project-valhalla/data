@@ -1,0 +1,8 @@
+Model Information:
+* title:	Coffee table
+* source:	https://sketchfab.com/3d-models/coffee-table-c59b1868edc04a208c08a17b3aa21035
+* author:	Asia Matusik (https://sketchfab.com/asiam)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.

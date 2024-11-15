@@ -1,0 +1,8 @@
+Model Information:
+* title:	Red Sofa
+* source:	https://sketchfab.com/3d-models/red-sofa-fb915db416ea463bad3c385ac032e356
+* author:	hosein hajipour (https://sketchfab.com/hoseinhajipour)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
