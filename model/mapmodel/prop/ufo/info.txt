@@ -1,0 +1,8 @@
+Model Information:
+* title:	UFO
+* source:	https://sketchfab.com/3d-models/ufo-c7a66b6eb3b54e508b82c7d539e9f70e
+* author:	ayushcodemate (https://sketchfab.com/ayushcodemate)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.

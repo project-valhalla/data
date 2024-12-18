@@ -19,9 +19,13 @@
 | wolf01.ogg            | "Kingcornz"                               | CC0 1.0 Universal |
 | wolf02.ogg            | "betchkal", "Hali_Pinson", "WeakWero"     | CC BY 3.0         |
 | loop_rain_thunder.ogg | "pulswelle"                               | CC0 1.0 Universal |
+| loop_rain_indoor.ogg  | "nicoproson"                              | CC0 1.0 Universal |
 | loop_ethereal.ogg     | "DreStortion", "InspectorJ", "IanStarGem" | CC BY 4.0         |
 | geigercounter.ogg     | "cookies+policy"                          | CC0 1.0 Universal |
 | loop_music.ogg        | "Jay_You"                                 | CC BY 4.0         |
+| thunderclap01.ogg     | Thomas Bruderer                           | CC0 1.0 Universal |
+| thunderclap02.ogg     | "TRP"                                     | CC0 1.0 Universal |
+| thunderclap03.ogg     | "felix.blume"                             | CC0 1.0 Universal |
 ------------------------|-------------------------------------------|-------------------|
 
 These files were created using source material downloaded from www.freesound.org by "garsipal".
