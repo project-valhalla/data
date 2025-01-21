@@ -1,5 +1,6 @@
 Files:
-    - intermission.ogg ("Dissipation")
+    - intermission_win.ogg ("Dissipation")
+    - intermission_lose.ogg ("Spooky Action")
     - becoming_dire.ogg ("Becoming Dire")
     - labspawn.wav ("Labspawn")
     - temporal_warning.wav ("Temporal Warning")
