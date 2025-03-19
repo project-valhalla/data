@@ -1,2 +1,0 @@
-Author: Pritchard (modified/ported to Valhalla by "garsipal")
-License: Creative Commons (BY-NC-SA)
