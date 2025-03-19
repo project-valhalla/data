@@ -1,17 +1,6 @@
 Files:
-    - intermission_win.ogg ("Dissipation")
-    - intermission_lose.ogg ("Spooky Action")
-    - becoming_dire.ogg ("Becoming Dire")
-    - labspawn.wav ("Labspawn")
-    - temporal_warning.wav ("Temporal Warning")
+    - olvido.ogg
 
-Origin: Valhalla Project (Valhalla OST)
-Composer: Getridou (#7108)_
-License: Attribution-ShareAlike 4.0 Unported (CC BY-SA 4.0+)
-
-___
-
-Other files in this folder
 Composer: Getridou (#7108)_
 License CC BY-NC-ND
 Note: upon the time where a game that uses these tracks becomes a mandatory pay-for product (this does not apply to donations/patron support), please consult with me about the continued use of this IP.
