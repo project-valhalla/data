@@ -1,6 +1,6 @@
 Model Information:
-* title:	Stylized Viking Helmet
-* source:	https://skfb.ly/6YQxV
-* author:	Hao Chun Chao
+* title:	Stylized Skull
+* source:	https://skfb.ly/oMPJE
+* author:	dodopro505
 
 Model License: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

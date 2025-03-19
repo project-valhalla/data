@@ -1,3 +1,6 @@
-Author: Enkarra
-License: CC Attribution
-https://skfb.ly/ozxOQ <- Sketchfab.com
+Model Information:
+* title:	Stylized wizard hat
+* source:	https://skfb.ly/ozxOQ
+* author:	Enkarra
+
+Model License: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
