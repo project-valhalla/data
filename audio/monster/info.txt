@@ -40,9 +40,8 @@ ___
 
 Files:
 - guard_die.ogg
-- guard_halt01.ogg
-- guard_pain01.ogg
-- guard_pain02.ogg
+- guard_halt.ogg
+- guard_pain.ogg
 
 License:
 - CC0 1.0 Universal 
@@ -53,7 +52,7 @@ ___
 
 Files:
 - ogro_halt01.ogg
-- ogro_halt02.ogg
+- ogro_halt02.og
 
 Author: frenkfurth
 License:
