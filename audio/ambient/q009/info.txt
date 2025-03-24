@@ -1,5 +1,4 @@
 Author: Sławomir "Q009" Błauciak
-Origin: Included in the first Tesseract edition for the "steelribs" map
 License: CC-BY 4.0
 https://creativecommons.org/licenses/by/4.0/
 https://creativecommons.org/licenses/by/4.0/legalcode.en

@@ -1,13 +1,31 @@
-The files attributed to the "Valhalla Project" origin are contributions from the Valhalla Project team itself.  
-These assets adhere to the project's default license for custom content:  
+The files that lack an explicit attribution belong to the "Valhalla Project", the project contributors.
 
-CC BY-SA 4.0
+© 2019 - 2025 Valhalla Project
+
+These assets adhere to the project's default license for custom content:
+
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 https://creativecommons.org/licenses/by-sa/4.0/
 https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
-___
+Main developers:
+- Ernesto "Edasert" Santangelo
+- Gergely "wohSiesta" Palkovics
+- "Getridou"
+- Patrick "garsipal" Corrà
+- Yaroslav "Darky" Biloshytskyi
+- Στέφανος "Coornio/8924th" Βλαστός
 
-Keep in mind that individual copyrights and distribution restrictions are applicable to each asset within this repository.  
+Other contributors:
+- "Ardelico"
+- "aspeedcuber"
+- "DeevDaRabbit"
+- "Jed"
+- Ognjen "Morti" Robovich
+- "-X-"
 
-Regrettably, some assets may lack explicit license files due to the project inheriting content from Cube 2 or Tesseract, or from contributors who omitted license documentation in the distant past and are now, for various reasons, unreachable.
+-----------------------------------------------------------
+
+Keep in mind that individual copyrights and distribution restrictions are applicable to each asset within this repository.
+
 If there are any uncertainties regarding licensing, requests for asset removal or updates to license conditions, please do not hesitate to contact the project staff.
