@@ -1,31 +1,37 @@
-| File                  | Author                                    | License           |
-| ----------------------|-------------------------------------------|-------------------|
-| bell.ogg              | "pulsewelle"                              | CC0 1.0 Universal |
-| loop_cicadas          | "mannhawks"                               | CC0 1.0 Universal |
-| coyote01.ogg          | "felix.blume", "dkaufman"                 | CC0 1.0 Universal |
-| coyote02.ogg          | "tubbers", "romancito"                    | CC0 1.0 Universal |
-| crow.ogg              | "straget"                                 | CC0 1.0 Universal |
-| fox.ogg               | "Simon Spiers", "Setzilla"                | CC0 1.0 Universal |
-| frog.ogg              | "JohnLaVine333", "GrayGaffer"             | CC0 1.0 Universal |
-| hawk.ogg              | "UncleSigmund"                            | CC0 1.0 Universal |
-| sea01.ogg             | "pulswelle"                               | CC0 1.0 Universal |
-| sea02.ogg             | "pulswelle"                               | CC0 1.0 Universal |
-| sea03.ogg             | "pulswelle"                               | CC0 1.0 Universal |
-| seagull01.ogg         | "squashy555", "Bansemer"                  | CC0 1.0 Universal |
-| seagull02.ogg         | "squashy555"                              | CC0 1.0 Universal |
-| toad.ogg              | "felix.blume"                             | CC0 1.0 Universal |
-| wind.ogg              | "kangaroovindaloo"                        | CC BY 4.0         |
-| woodpecker.ogg        | "loberg77"                                | CC0 1.0 Universal |
-| wolf01.ogg            | "Kingcornz"                               | CC0 1.0 Universal |
-| wolf02.ogg            | "betchkal", "Hali_Pinson", "WeakWero"     | CC BY 3.0         |
-| loop_rain_thunder.ogg | "pulswelle"                               | CC0 1.0 Universal |
-| loop_rain_indoor.ogg  | "nicoproson"                              | CC0 1.0 Universal |
-| loop_ethereal.ogg     | "DreStortion", "InspectorJ", "IanStarGem" | CC BY 4.0         |
-| geigercounter.ogg     | "cookies+policy"                          | CC0 1.0 Universal |
-| loop_music.ogg        | "Jay_You"                                 | CC BY 4.0         |
-| thunderclap01.ogg     | Thomas Bruderer                           | CC0 1.0 Universal |
-| thunderclap02.ogg     | "TRP"                                     | CC0 1.0 Universal |
-| thunderclap03.ogg     | "felix.blume"                             | CC0 1.0 Universal |
-------------------------|-------------------------------------------|-------------------|
+| File                   | Author                                    | License           |
+| -----------------------|-------------------------------------------|-------------------|
+| bell.ogg               | "pulsewelle"                              | CC0 1.0 Universal |
+| coyote01.ogg           | "felix.blume", "dkaufman"                 | CC0 1.0 Universal |
+| coyote02.ogg           | "tubbers", "romancito"                    | CC0 1.0 Universal |
+| coyote03.ogg           | "felix.blume", "dkaufman"                 | CC0 1.0 Universal |
+| crow.ogg               | "straget"                                 | CC0 1.0 Universal |
+| frog.ogg               | "JohnLaVine333", "GrayGaffer"             | CC0 1.0 Universal |
+| geigercounter.ogg      | "cookies+policy"                          | CC0 1.0 Universal |
+| hawk.ogg               | "UncleSigmund"                            | CC0 1.0 Universal |
+| loop_ambient           | cubicApocalypse                           | CC0 1.0 Universal |
+| loop_cicadas           | "mannhawks"                               | CC0 1.0 Universal |
+| loop_compressor        | "chromakei"                               | CC0 1.0 Universal |
+| loop_ethereal.ogg      | "DreStortion", "InspectorJ", "IanStarGem" | CC BY 4.0         |
+| loop_fluorescent_light | "kyles"                                   | CC0 1.0 Universal |
+| loop_music.ogg         | "Jay_You"                                 | CC BY 4.0         |
+| loop_rain_indoor.ogg   | "nicoproson"                              | CC0 1.0 Universal |
+| loop_rain_thunder.ogg  | "pulswelle"                               | CC0 1.0 Universal |
+| loop_sea01.ogg         | "pulswelle"                               | CC0 1.0 Universal |
+| loop_sea02.ogg         | "pulswelle"                               | CC0 1.0 Universal |
+| loop_sea03.ogg         | "pulswelle"                               | CC0 1.0 Universal |
+| loop_thunder           | TRP                                       | CC0 1.0 Universal |
+| loop_toad.ogg          | "felix.blume"                             | CC0 1.0 Universal |
+| loop_water_lapping     | Steve "laughatlantic" R.                  | CC0 1.0 Universal |
+| loop_wind.ogg          | "kangaroovindaloo"                        | CC BY 4.0         |
+| seagull01.ogg          | "squashy555", "Bansemer"                  | CC0 1.0 Universal |
+| seagull02.ogg          | "squashy555"                              | CC0 1.0 Universal |
+| seagull03.ogg          | "squashy555"                              | CC0 1.0 Universal |
+| thunderclap01.ogg      | Thomas Bruderer                           | CC0 1.0 Universal |
+| thunderclap02.ogg      | "TRP"                                     | CC0 1.0 Universal |
+| thunderclap03.ogg      | "felix.blume"                             | CC0 1.0 Universal |
+| wolf01.ogg             | "Kingcornz"                               | CC0 1.0 Universal |
+| wolf02.ogg             | "betchkal", "Hali_Pinson", "WeakWero"     | CC BY 3.0         |
+| woodpecker.ogg         | "loberg77"                                | CC0 1.0 Universal |
+-------------------------|-------------------------------------------|-------------------|
 
-These files were created using source material downloaded from www.freesound.org by "garsipal".
+These files were created by "garsipal" using source material downloaded from www.freesound.org
