@@ -1,4 +1,4 @@
-The files that lack an explicit attribution belong to the "Valhalla Project", the project contributors.
+The files that lack an explicit attribution belong to the "Valhalla Project" contributors.
 
 © 2019 - 2025 Valhalla Project
 
@@ -17,15 +17,15 @@ Main developers:
 - Στέφανος "Coornio/8924th" Βλαστός
 
 Other contributors:
+- "-X-"
 - "Ardelico"
 - "aspeedcuber"
 - "DeevDaRabbit"
 - "Jed"
 - Ognjen "Morti" Robovich
-- "-X-"
 
 -----------------------------------------------------------
 
-Keep in mind that individual copyrights and distribution restrictions are applicable to each asset within this repository.
+Keep in mind that individual copyrights and distribution restrictions may be applicable to each asset within this repository.
 
 If there are any uncertainties regarding licensing, requests for asset removal or updates to license conditions, please do not hesitate to contact the project staff.
