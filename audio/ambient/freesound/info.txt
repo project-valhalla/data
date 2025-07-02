@@ -1,5 +1,6 @@
 | File                   | Author                                    | License           |
 | -----------------------|-------------------------------------------|-------------------|
+| alarm.wav              | "sketti_d"                                | CC0 1.0 Universal |
 | bell.ogg               | "pulsewelle"                              | CC0 1.0 Universal |
 | coyote01.ogg           | "felix.blume", "dkaufman"                 | CC0 1.0 Universal |
 | coyote02.ogg           | "tubbers", "romancito"                    | CC0 1.0 Universal |
@@ -8,6 +9,7 @@
 | frog.ogg               | "JohnLaVine333", "GrayGaffer"             | CC0 1.0 Universal |
 | geigercounter.ogg      | "cookies+policy"                          | CC0 1.0 Universal |
 | hawk.ogg               | "UncleSigmund"                            | CC0 1.0 Universal |
+| loop_alarm.wav         | "chungus43A", "harrisonlace"              | CC0 1.0 Universal |
 | loop_ambient           | cubicApocalypse                           | CC0 1.0 Universal |
 | loop_cicadas           | "mannhawks"                               | CC0 1.0 Universal |
 | loop_compressor        | "chromakei"                               | CC0 1.0 Universal |
