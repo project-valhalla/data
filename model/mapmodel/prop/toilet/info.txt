@@ -1,8 +1,0 @@
-Model Information:
-* title:	Toilet
-* source:	https://sketchfab.com/3d-models/toilet-24d1b493899d407780140688abae19bc
-* author:	Xill (https://sketchfab.com/Xill)
-
-Model License:
-* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
-* requirements:	Author must be credited. Commercial use is allowed.
